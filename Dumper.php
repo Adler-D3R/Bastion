@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bastion API - Dumper</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="Security, Bastion, sécurité, développeur, web, développement, dév, Adler, Alexandre, MEHRING, Alexandre MEHRING C, C++, Python, PHP">
+  <title>Bastion API - Selective</title>
+  <meta charset="utf-8">  
   <meta name="author" content="Bastion">
-  <link rel="icon" type="image/png" href="Images/Logo.png"/>
-  <link rel="stylesheet" type="text/css" href="CSS/index.css">
 </head>
 
 <?php
