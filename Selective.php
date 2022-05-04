@@ -7,7 +7,7 @@
 </head>
 
 <?php
-$sIPHash    = md5($_SERVER['REMOTE_ADDR']);
+$sIPHash = hash('sha384', $_SERVER['REMOTE_ADDR'], false);
 $iSecDelay  = 10;
 $sPath      = "bastion-selective.cache";
 $bReqAllow  = false;
